@@ -1,3 +1,6 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22554250.svg)](https://doi.org/10.5281/zenodo.22554250)
+
+
 # PolyScope & PolyCASA: Minimal 3D-Printed Microscope for Sperm Motility Analysis
 
 This repository contains the source code, CAD files, and sample datasets for **PolyScope** and **PolyCASA**, as presented in the PhD thesis:
